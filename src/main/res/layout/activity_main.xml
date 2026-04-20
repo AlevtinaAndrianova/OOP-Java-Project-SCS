@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <Button
+        android:id="@+id/btnRecruitCrew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Recruit Crew" />
+
+    <Button
+        android:id="@+id/btnQuarters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Quarters" />
+
+    <Button
+        android:id="@+id/btnSimulator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Simulator" />
+
+    <Button
+        android:id="@+id/btnMissionControl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mission Control" />
+
+    <Button
+        android:id="@+id/btnStatistics"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Statistics" />
+
+</LinearLayout>
